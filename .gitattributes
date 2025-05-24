@@ -1,3 +1,5 @@
 Library/Artifacts/3f/* filter=lfs diff=lfs merge=lfs -text
 Assets/Environments/Buildings/Textures/wood_tiled_01_n.tif filter=lfs diff=lfs merge=lfs -text
 Library/Artifacts/4c/* filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
